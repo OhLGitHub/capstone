@@ -22,5 +22,5 @@ This folder contains the Executive Summary, Data Platform, Project Plan, and Dat
 
 This is the Capstone Project for the Data Fundamentals course (Dev10, Genesis10).  
 
-Team members: Lindsey O., Pemba S., Raymond S., Scott P.
+Team members: Lindsey O., Pemba S., Raymond S., Scott P.  
 Team name: AlgoRhythm
