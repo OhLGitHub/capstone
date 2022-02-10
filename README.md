@@ -32,7 +32,6 @@ This folder contains data used.
 **project-specifications**  
 
 This folder contains the Exploratory Questions, Project Management Plan, Visualizations Napkins, Power BI Report Napkins, Repeatable ETL Report, Project Executive Summary, and Capstone Presentation Slides.
-Executive Summary, Data Platform, Project Plan, and Data Sources.
 
 ## Project Details
 
