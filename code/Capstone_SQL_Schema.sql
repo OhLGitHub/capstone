@@ -56,11 +56,12 @@ CREATE TABLE Health_Insurance_Data_Table (
 );
 
 CREATE TABLE Insured_Respondents_by_State (
-    State varchar(20) primary key,
+    StateID int primary key IDENTITY(1,1),
+    [State] varchar(20) NOT NULL,
     NumberInsured int NOT NULL,
     NumberUninsured int NOT NULL,
     Total int NOT NULL,
     PercentInsured float NOT NULL,
     PercentUninsured float NOT NULL,
-    Time int NOT NULL,
+    [Time] int NOT NULL,
 );
