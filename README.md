@@ -29,9 +29,13 @@ This folder contains code.
 
 This folder contains data used.
 
+**project-deliverables**  
+
+This folder contains the Power BI Report, Project Executive Report, and Capstone Presentation Slides.
+
 **project-specifications**  
 
-This folder contains the Exploratory Questions, Project Management Plan, Visualizations Napkins, Power BI Report Napkins, Repeatable ETL Report, Project Executive Summary, and Capstone Presentation Slides.
+This folder contains the Exploratory Questions, Project Management Plan, Visualizations Napkins, Power BI Report Napkins, and Repeatable ETL Report.
 
 ## Project Details
 
