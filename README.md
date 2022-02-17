@@ -21,19 +21,19 @@ Your mission:
 
 ## Navigation
 
-**code**  
+[**code**] (https://github.com/OhLGitHub/capstone/tree/main/code)  
 
 This folder contains code.
 
-**data**  
+[**data**] (https://github.com/OhLGitHub/capstone/tree/main/data)  
 
 This folder contains data used.
 
-**project-deliverables**  
+[**project-deliverables**] (https://github.com/OhLGitHub/capstone/tree/main/project-deliverables)  
 
 This folder contains the Power BI Report, Project Executive Report, and Capstone Presentation Slides.
 
-**project-specifications**  
+[**project-specifications**] (https://github.com/OhLGitHub/capstone/tree/main/project-specifications)  
 
 This folder contains the Exploratory Questions, Project Management Plan, Visualizations Napkins, Power BI Report Napkins, and Repeatable ETL Report.
 
